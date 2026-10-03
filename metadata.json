@@ -1,0 +1,6 @@
+{
+  "name": "Vanguard Electrical Solutions",
+  "description": "Professional electrical installation, maintenance, and repair services for homes, businesses, and industrial facilities. Licensed master electricians with 24/7 emergency dispatch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
